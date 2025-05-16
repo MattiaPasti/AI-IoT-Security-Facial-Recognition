@@ -1,4 +1,4 @@
-# **DREAM TEAM PROJECT** 💻🌟  
+# **AI IoT Security Facial Recognition** 💻🌟  
 
 **Il progetto che rivoluziona la gestione degli accessi e alla sala server!**  
 Monitora login, gestisci utenti, statistiche e visualizzazioni con dashboard avanzate, grafici dinamici e temi personalizzabili.
